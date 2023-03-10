@@ -4,6 +4,6 @@
   <li><a href="https://github.com/Awonaa/signatures/blob/main/signature%202/SIGNA2_centre.html">Alignée au centre</a>.</li>
   <li><a href="https://github.com/Awonaa/signatures/blob/main/signature%202/SIGNA2_droite.html">Alignée à droite</a>.</li></ul>
 
-Les couleurs sont à modifier à votre convenance ; si votre forum a un mode jour/nuit, privilégiez d'utiliser les couleurs du forum pour qu'elles s'adaptent automatiquement. Les images utilisées en exemple appartiennent à <a href="https://eiiihwaz.tumblr.com/">eiwhaz</a>.
+Les couleurs sont à modifier à votre convenance ; si votre forum a un mode jour/nuit, privilégiez d'utiliser les couleurs du forum pour qu'elles s'adaptent automatiquement. Les images utilisées en exemple appartiennent à <a href="https://eiiihwaz.tumblr.com/">eihwaz</a>.
 <br><br>Merci de <b>ne pas supprimer mon crédit</b> ni celui du/de la créateurice des icones utilisées. 
 <br>A la moindre question, vous pouvez me contacter sur <a href="https://awonaa.tumblr.com/">mon tumblr</a> !
